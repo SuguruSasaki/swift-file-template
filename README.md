@@ -1,0 +1,2 @@
+# Swfit file template
+
